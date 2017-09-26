@@ -1,0 +1,100 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     880 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Files\Projects\Github Projects\Generation-Starship\GenerationStarship_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Files\Projects\Github Projects\Generation-Starship\GenerationStarship_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Files\Projects\Github Projects\Generation-Starship\GenerationStarship_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Files\Projects\Github Projects\Generation-Starship\GenerationStarship_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Files\Projects\Github Projects\Generation-Starship\GenerationStarship_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Files\Projects\Github Projects\Generation-Starship\GenerationStarship_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Files\Projects\Github Projects\Generation-Starship\GenerationStarship_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Files\Projects\Github Projects\Generation-Starship\GenerationStarship_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Files\Projects\Github Projects\Generation-Starship\GenerationStarship_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Files\Projects\Github Projects\Generation-Starship\GenerationStarship_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.061 seconds
+Platform assembly: D:\Files\Projects\Github Projects\Generation-Starship\GenerationStarship_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Files\Projects\Github Projects\Generation-Starship\GenerationStarship_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.668426 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.046630 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.280221 ms (FindLiveObjects: 0.040605 ms CreateObjectMapping: 0.042390 ms MarkObjects: 0.186516 ms  DeleteObjects: 0.008924 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.491726 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 427.
+Total: 0.317703 ms (FindLiveObjects: 0.038820 ms CreateObjectMapping: 0.063808 ms MarkObjects: 0.196333 ms  DeleteObjects: 0.017848 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.612204 ms
+
+Unloading 192 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.494850 ms (FindLiveObjects: 0.068716 ms CreateObjectMapping: 0.064254 ms MarkObjects: 0.235154 ms  DeleteObjects: 0.125385 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.675566 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 478.
+Total: 0.381511 ms (FindLiveObjects: 0.061577 ms CreateObjectMapping: 0.077641 ms MarkObjects: 0.229353 ms  DeleteObjects: 0.011601 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.682259 ms
+
+Unloading 178 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.482802 ms (FindLiveObjects: 0.064700 ms CreateObjectMapping: 0.067378 ms MarkObjects: 0.226229 ms  DeleteObjects: 0.123600 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.465399 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 516.
+Total: 0.374372 ms (FindLiveObjects: 0.055776 ms CreateObjectMapping: 0.066039 ms MarkObjects: 0.233369 ms  DeleteObjects: 0.018294 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.119101 ms
+
+Unloading 188 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.471200 ms (FindLiveObjects: 0.049975 ms CreateObjectMapping: 0.065147 ms MarkObjects: 0.235154 ms  DeleteObjects: 0.119585 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.510021 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 479.
+Total: 0.373033 ms (FindLiveObjects: 0.078087 ms CreateObjectMapping: 0.072286 ms MarkObjects: 0.211058 ms  DeleteObjects: 0.010709 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.046815 ms
+
+Unloading 211 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.489941 ms (FindLiveObjects: 0.051314 ms CreateObjectMapping: 0.065147 ms MarkObjects: 0.243185 ms  DeleteObjects: 0.128955 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.476555 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 492.
+Total: 0.335105 ms (FindLiveObjects: 0.048190 ms CreateObjectMapping: 0.055330 ms MarkObjects: 0.219982 ms  DeleteObjects: 0.010262 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.531885 ms
+
+Unloading 215 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.488603 ms (FindLiveObjects: 0.060238 ms CreateObjectMapping: 0.070055 ms MarkObjects: 0.218644 ms  DeleteObjects: 0.138772 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.604618 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 0.315918 ms (FindLiveObjects: 0.023649 ms CreateObjectMapping: 0.016063 ms MarkObjects: 0.266835 ms  DeleteObjects: 0.008924 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 19d0 -> priority: 1 
